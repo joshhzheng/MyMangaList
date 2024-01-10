@@ -1,0 +1,13 @@
+{
+  "mangas": [
+    {
+      "name": "Solo Levelling",
+      "rating": 10
+    },
+    {
+      "name": "Mushoku Tensei",
+      "rating": 9
+    }
+  ],
+  "name": "My Mangas"
+}
