@@ -1,4 +1,4 @@
-# My Personal Project
+# CPSC210 Personal Project
 
 ## MyMangaList
 
